@@ -1,0 +1,13 @@
+SENDER|ORA_PRD||20230413|12:11:04|-0500
+ID|ORACLE|Toluca|0 392 65 01 87 009|STORE
+ITEM|CARDAN SHAFT|CARDAN SHAFT||EA||ACTI|Active|||OHW||OHW|||||||||SPICER GELENKWELLENBAU Gm|Dana|||||||||||||402||20220722|||Off-Highwa|||||||||||Toluca|||||Dana OHW||||||||||||||||||||||B||||||||STORE
+IW|402|MX||1||20230413||||||||||||||||||STORE
+IH|PS|20230413|261808|MXN|||C|01|STORE
+ID|ORACLE|Toluca|0 498 00 09 87 10286|STORE
+ITEM|CARDAN SHAFT|CARDAN SHAFT||EA||ACTI|Active|||OHW||OHW|||||||||SPICER GELENKWELLENBAU Gm|Dana|||||||||||||402||20230102|||Off-Highwa|||||||||||Toluca|||||Dana OHW||||||||||||||||||||||A||||||||STORE
+IW|402|MX||1||20230413||||||||||||||||||STORE
+IH|PS|20230413|6.05|MXN|||C|01|STORE
+ID|ORACLE|Toluca|0 498 00 09 87 XXX 10.286|STORE
+ITEM|0 498 00 09 87 XXX 10.286|0 498 00 09 87 XXX 10.286||EA||ACTI|Active|||OHW||OHW|||||||||SPICER GELENKWELLENBAU Gm|Dana|||||||||||||402||20220722|||Off-Highwa|||||||||||Toluca|||||Dana OHW||||||||||||||||||||||D||||||||STORE
+IW|402|MX||1||20230413||||||||||||||||||STORE
+IH|PS|20230413|6.58|MXN|||C|01|STORE
